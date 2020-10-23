@@ -1,7 +1,7 @@
-Test_cookie_cutter_project
+Data Science Template
 ==============================
 
-This is a test of the cookie cutter repo
+This is a template for new data science projects.
 
 Project Organization
 ------------
